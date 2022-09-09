@@ -11,6 +11,6 @@ With this data, you are able to choose a campaign that will fit within your budg
 
 Please check out the rest of the data for more information on how you should start moving forward with your campaign.
 
-[Kickstarter Data](StarterBook -9.6.2022.xlsx)
+[Kickstarter Data](https://github.com/JGarza4903/Kickstarter-Analysis/blob/4f1760bc97eddbc64967a2260f3429218c03708b/Successful%20US%20Kickstarters/Successful%20US%20Kickstarters.xlsx)
 
 ---
