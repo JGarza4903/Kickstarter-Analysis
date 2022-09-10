@@ -7,7 +7,7 @@ Performing Analysis on kickstarter data to uncover trends for our client, Louis.
 
 With this data, you are able to choose a campaign that will fit within your budget as well as your needs. See example below of the comparison between Campaign Goal and Campaign Pledged of Successful Musical Theatre campaigns in Great Britian.
 
-![Musical Theatre - GB](GoalvsPledge_Comparison.png)
+![Musical Theatre - GB](Images/GoalvsPledge_Comparison.png)
 
 Please check out the rest of the data for more information on how you should start moving forward with your campaign.
 
