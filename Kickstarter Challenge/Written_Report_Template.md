@@ -16,7 +16,7 @@ To begin analyzing, I populated new data that would give me the _Year_ on which 
 
 Looking at the data represented in the Line chart below, we can determine that most Theatre play fundraisers began their campaign near the beginning of summer months.  Those that did have a higher rate of **Success** where as campaigns that start near the end of summer in months like November and December have a lower rate of Success. In comparison, although the data shows a spike in successful campaign during those months, we can also see there is a higher rate of **Failed** campaigns as well. 
 
-![Outcome vs Launch Date](Kickstarter Challenge/Resources/Theatre_Outcomes_vs_Launch.png)
+![Outcome vs Launch Date](Kickstarter-Analysis/Kickstarter Challenge/Resources/Theatre_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
