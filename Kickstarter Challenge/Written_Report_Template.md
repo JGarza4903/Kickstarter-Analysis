@@ -2,9 +2,15 @@
 
 ## Overview of Project
 
+To gather data relating to the creation of kickstarter campaigns to determine trends and patterns 
+
 ### Purpose
 
+To analyze how different campaigns compared in relation to their launch dates and goals 
+
 ## Analysis and Challenges
+
+
 
 ### Analysis of Outcomes Based on Launch Date
 
