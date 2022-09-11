@@ -20,7 +20,7 @@ To view the pivot table, please click [Here](https://github.com/JGarza4903/Kicks
 
 ![Outcome vs Launch Date](https://github.com/JGarza4903/Kickstarter-Analysis/blob/main/Kickstarter%20Challenge/Resources/Theatre_Outcomes_vs_Launch.png)
 
-I was challenged by the formatting of my visual aid, the data didn't look the way I wanted it to due to a filtering issue. It took me quite a while to understand but once I watched over the tutorials again I noticed I missed a helpful tip of clicking on the data itself and sorting it out by left clicking the mouse. Once I figured that out it all made more sense.
+***I was challenged by the formatting of my visual aid, the data didn't look the way I wanted it to due to a filtering issue. It took me quite a while to understand but once I watched over the tutorials again I noticed I missed a helpful tip of clicking on the data itself and sorting it out by left clicking the mouse. Once I figured that out it all made more sense.***
 
 ### Analysis of Outcomes Based on Goals
 
