@@ -34,15 +34,15 @@ However, I found a solution. When inputing the formula I can click the cell or w
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-  -we can determine that most Theatre play fundraisers began their campaign near the beginning of summer months.  
+  1. We can determine that most Theatre play fundraisers began their campaign near the beginning of summer months.  
   
-  -Those that did, have a higher rate of **Success** where as campaigns that start near the end of summer in months like November and December have a lower rate of Success. In comparison, although the data shows a spike in successful campaign during those months, we can also see there is a higher rate of **Failed** campaigns as well. 
+  2. Those that did, have a higher rate of **Success** where as campaigns that start near the end of summer in months like November and December have a lower rate of Success. In comparison, although the data shows a spike in successful campaign during those months, we can also see there is a higher rate of **Failed** campaigns as well. 
 
 - What can you conclude about the Outcomes based on Goals? 
 
-  -When Comparing the outcome of various campaigns against the goal amount, we can determine that the majority of campaigns had a goal of $10,000 or less. 
+  1. When Comparing the outcome of various campaigns against the goal amount, we can determine that the majority of campaigns had a goal of $10,000 or less. 
   
-  -Those that had lower goal amounts had a higher chance of succeeding while those with a higher goal were more likely to fail, but not in all cases.
+  2. Those that had lower goal amounts had a higher chance of succeeding while those with a higher goal were more likely to fail, but not in all cases.
 
 - What are some limitations of this dataset?
 
