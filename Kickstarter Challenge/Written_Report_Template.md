@@ -16,7 +16,7 @@ For this analysis I needed to create new data points, from existing data within 
 
 To begin analyzing, I populated new data that would give me the _Year_ on which the campaigns started. With that data, I created a pivot table that would show me the  the **Outcomes** and Months of the year to visualize what points throughout the year that had excessive spikes in fundraising as well as months that didn't fare as well. 
 
-To view the pivot table, please click [Here](https://github.com/JGarza4903/Kickstarter-Analysis/blob/main/Kickstarter%20Challenge/Resources/Pivot_Launch_Date.png)
+To view the pivot table, please click [Here](https://github.com/JGarza4903/Kickstarter-Analysis/blob/main/Kickstarter%20Challenge/Resources/Pivot_Launch_Date.png). Otherwise, please see visualization below.
 
 ![Outcome vs Launch Date](https://github.com/JGarza4903/Kickstarter-Analysis/blob/main/Kickstarter%20Challenge/Resources/Theatre_Outcomes_vs_Launch.png)
 
@@ -24,7 +24,12 @@ To view the pivot table, please click [Here](https://github.com/JGarza4903/Kicks
 
 ### Analysis of Outcomes Based on Goals
 
+When analyzing data I created more data sets that required the function of the ***COUNTIFS*** formula to filter out by
+1. Outcome
+2. Goal Range
+3. Subcategories
 
+To view the tabular data of this analysis please click [Here](https://github.com/JGarza4903/Kickstarter-Analysis/blob/main/Kickstarter%20Challenge/Resources/Goal_Data.png). Otherise, please see the visua below.
 
 ![Outcome vs Goal](https://github.com/JGarza4903/Kickstarter-Analysis/blob/main/Kickstarter%20Challenge/Resources/Outcome_vs_Goal.png)  
 
