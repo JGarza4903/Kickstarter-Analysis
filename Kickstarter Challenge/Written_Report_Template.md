@@ -10,7 +10,7 @@ To analyze how different campaigns compared in relation to their ***launch Dates
 
 ## Analysis and Challenges
 
-To begin analyzing, I populated new data that would give me the * *Year* * on which the campaigns started. With that data, I created a pivot table that would show me the **Outcomes**   * *Succeeded, Failed, or Canceled* * and use that data to create a line chart
+To begin analyzing, I populated new data that would give me the _Year_ on which the campaigns started. With that data, I created a pivot table that would show me the **Outcomes**   _Succeeded, Failed, or Canceled_ and use that data to create a line chart
 
 ### Analysis of Outcomes Based on Launch Date
 
