@@ -6,7 +6,7 @@ To gather data relating to the creation of kickstarter campaigns to determine tr
 
 ### Purpose
 
-To analyze how different campaigns compared in relation to their launch dates and goals 
+To analyze how different campaigns compared in relation to their ***launch Dates AND Goals*** 
 
 ## Analysis and Challenges
 
