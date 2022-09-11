@@ -16,11 +16,11 @@ For this analysis I needed to create new data points, from existing data within 
 
 To begin analyzing, I populated new data that would give me the _Year_ on which the campaigns started. With that data, I created a pivot table that would show me the  the **Outcomes** and Months of the year to visualize what points throughout the year that had excessive spikes in fundraising as well as months that didn't fare as well. 
 
-To view the pivot table, please click [Here](https://github.com/JGarza4903/Kickstarter-Analysis/blob/main/Kickstarter%20Challenge/Resources/Pivot_Launch_Date.png). Otherwise, please see visualization below.
+To view the pivot table, please click [Here](https://github.com/JGarza4903/Kickstarter-Analysis/blob/main/Kickstarter%20Challenge/Resources/Pivot_Launch_Date.png). Otherwise, please see visual below.
 
 ![Outcome vs Launch Date](https://github.com/JGarza4903/Kickstarter-Analysis/blob/main/Kickstarter%20Challenge/Resources/Theatre_Outcomes_vs_Launch.png)
 
-***I was challenged by the formatting of my visual aid, the data didn't look the way I wanted it to due to a filtering issue. It took me quite a while to understand but once I watched over the tutorials again I noticed I missed a helpful tip of clicking on the data itself and sorting it out by left clicking the mouse. Once I figured that out it all made more sense.***
+**I was challenged by the formatting of my visual aid, the data didn't look the way I wanted it to due to a filtering issue. It took me quite a while to understand but once I watched over the tutorials again I noticed I missed a helpful tip of clicking on the data itself and sorting it out by left clicking the mouse. Once I figured that out it all made more sense.**
 
 ### Analysis of Outcomes Based on Goals
 
@@ -29,9 +29,11 @@ When analyzing data I created more data sets that required the function of the *
 2. Goal Range
 3. Subcategories
 
-To view the tabular data of this analysis please click [Here](https://github.com/JGarza4903/Kickstarter-Analysis/blob/main/Kickstarter%20Challenge/Resources/Goal_Data.png). Otherise, please see the visua below.
+To view the tabular data of this analysis please click [Here](https://github.com/JGarza4903/Kickstarter-Analysis/blob/main/Kickstarter%20Challenge/Resources/Goal_Data.png). Otherise, please see the visual below.
 
 ![Outcome vs Goal](https://github.com/JGarza4903/Kickstarter-Analysis/blob/main/Kickstarter%20Challenge/Resources/Outcome_vs_Goal.png)  
+
+**I ran into a couple challenges trying to gather data using the _COUNTIF_ formula, I wasn't putting enough information to narrow my search. nce I realized I was only adding one filter into the parameters it became more clear and the more practice makes perfect.**
 
 ### Challenges and Difficulties Encountered
 
@@ -54,5 +56,8 @@ However, I found a solution. When inputing the formula I can click the cell or w
   2. Those that had lower goal amounts had a higher chance of succeeding while those with a higher goal were more likely to fail, but not in all cases.
 
 - What are some limitations of this dataset?
+  1. The data is limited by the Subcategory field _Plays_ which is also limited by the Parent Category _Theatre_
 
 - What are some other possible tables and/or graphs that we could create?
+  1. One could gather the outcome **ALL** Parent categories and compare them against their goals to see how other campaigns fared in other categories.
+  2. You could also gather data that would show you on average how much money was received during vertain months the campaign was running.
